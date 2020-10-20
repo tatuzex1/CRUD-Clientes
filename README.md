@@ -10,3 +10,7 @@ Queries todas separadas, mais fácil o controle pra saber quais indices utilizar
 Conceito de reposítorio -> Desaclopando o contexto do framework, nos dando a possibilidade de trocar a qualquer momento
 
 E uma camada de testes das Queries usadas no repositório, utilizando um FakeRepository
+
+Mappers feitos na mão, pois já ouvi falar que a lib do AutoMapper não é tão vantajosa assim em desempenho..
+
+Uma BaseResponse p/ facilitar a vida do outro lado da moeda, ou o famigerado front-end
